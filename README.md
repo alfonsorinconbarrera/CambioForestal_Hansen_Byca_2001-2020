@@ -13,3 +13,4 @@ Global Forest Watch (GFW).
 Landsat res. 30m.
 
 Composición y análisis: alfonso rincon barrera
+Gestión digital: fredy alberto hernández corredor
