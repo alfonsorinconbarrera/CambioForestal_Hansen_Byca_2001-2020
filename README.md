@@ -1,7 +1,7 @@
 # CambioForestal_Hansen_Byca_2001-2020
 
 <p align="center">
-  <img width="360" src="/Animacion_gif/CambioForestal_Hansen_Byca_2001-2020.gif">
+  <img width="360" src="/Animacion_gif/Hansen_Cambio_ForestalNoForestal_Boyaca_2001-2020.gif">
 </p>
 
 Versión  2020
