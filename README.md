@@ -14,4 +14,3 @@ Las bandas son imágenes multiespectrales de referencia del primer y último añ
 Landsat res. 30m.
 
 Composición y análisis: alfonso rincon barrera
-Gestión digital: fredy alberto hernández corredor
